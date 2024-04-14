@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://webizytech.com/$1"
+ }
+  ]
+}
